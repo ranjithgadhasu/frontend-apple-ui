@@ -1,17 +1,12 @@
 import { useState } from "react";
 import {
   FaApple,
-  FaShoppingBag,
   FaBars,
-  FaMobileAlt,
 } from "react-icons/fa";
 import { IoBagOutline } from "react-icons/io5";
 import { IoIosSearch } from "react-icons/io";
-//import FigureFirst from "../assets/Images/FigureFirst.png";
 import FigureOne from "../assets/Images/FigureOne.png";
-//import FigureTwo from "../assets/Images/FigureTwo.png";
 import FigureThree from "../assets/Images/FigureThree.png";
-//import FigureFour from "../assets/Images/FigureFour.png";
 import FigureFive from "../assets/Images/FigureFive.png";
 import FigureSix from "../assets/Images/FigureSix.png";
 import FigureSeven from "../assets/Images/FigureSeven.png";
