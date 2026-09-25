@@ -1,0 +1,25 @@
+.manvisit{
+    margin-left: 208px;
+}
+
+
+
+
+/* Small devices */
+@media (max-width: 640px){
+.manvisit{
+    margin-left: -22px !important;
+} 
+}
+@media (min-width: 768px) {
+  .manvisit {
+    margin-left: 10px !important;
+  }
+}
+
+/* Laptop/Desktop (1024px and above) */
+@media (min-width: 1024px) {
+  .manvisit {
+    margin-left: 210px !important;
+  }
+}
